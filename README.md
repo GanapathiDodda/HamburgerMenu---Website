@@ -20,7 +20,3 @@ Open the website in your browser and explore the navigation using the hamburger 
 
 - [Author Name]
     Lakshmi Ganapathi Dodda
-
-  
-## Contributors
-    SASI INSTITUTE OF TECHNOLOGY & ENGINEERING
